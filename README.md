@@ -110,6 +110,12 @@ sudo port install hexyl
 pkg install hexyl
 ```
 
+### On OpenBSD
+
+```
+doas pkg_add hexyl
+```
+
 ### on Termux
 ```
 pkg install hexyl
