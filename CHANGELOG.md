@@ -1,12 +1,12 @@
-# unreleased
+# v0.15.0
 
 ## Features
 
-
-## Bugfixes
-
+- Add codepage 1047 for EBCDIC, see #226 (@v1gnesh)
 
 ## Other
+
+- Rewrite CLI using the derive API, see #225 (@sorairolake)
 
 
 # v0.14.0
